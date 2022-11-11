@@ -1,0 +1,10 @@
+# Ignore Arch packages.
+/*.pkg.tar.*
+
+# Ignore temp files.
+/yc
+/yc-*
+
+# Ignore special directories.
+/pkg/
+/src/
